@@ -1,3 +1,7 @@
+To view the data and analysis, you can simply download the HTML file and run it in your browser
+
+or:
+
 Before starting:
 - Make sure you have all packages necessary to run. Follow the commands in the Jupyter window to install:
 !pip install pandas
